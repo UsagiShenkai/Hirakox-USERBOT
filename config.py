@@ -14,7 +14,7 @@ OWNER_ID = int(getenv("OWNER_ID", "5489233583"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Kazee:kaze@kazee.jpyqywq.mongodb.net/?retryWrites=true&w=majority")
 BOT_TOKEN = getenv("BOT_TOKEN", "5569861454:AAE6FK0I7Dj9CncHxMDsWc0gtyOYILfXy50")
 ALIVE_PIC = getenv("ALIVE_PIC", "https://telegra.ph/file/f973fcb16b21e5c8597f3.jpg")
-ALIVE_TEXT = getenv("ALIVE_TEXT", "I am hirako)
+ALIVE_TEXT = getenv("ALIVE_TEXT", "I am hirako")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
